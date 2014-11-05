@@ -1,0 +1,11 @@
+{
+  "name"         : "web-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "index.js",
+  "dependencies" : {
+    "express"    : "*",
+    "request"    : "*",
+    "cheerio"    : "*"
+  }
+}
